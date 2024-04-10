@@ -2,7 +2,7 @@
 
 ## About Us
 
-Fibonacci Enterprise is a leading company in the tech industry. We specialize in providing innovative solutions to complex problems using state-of-the-art technology.
+Fibonacci Enterprise is social class company. We specialize in providing innovative solutions to complex problems using state-of-the-art technology.
 
 ## Our Products
 
